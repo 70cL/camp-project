@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.ui.main.container{
+  margin-top: 5em;
+}
+
+.ui.sec.container{
+  margin-top: 0em;
+}
