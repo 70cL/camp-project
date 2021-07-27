@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Icon, Label, Menu, Table } from "semantic-ui-react";
 import { Container } from "semantic-ui-react";
 import ProductService from "../services/productService";
-import productService from "../services/productService";
+
 
 export default function ProductList() {
   const [products, setProducts] = useState([]);
