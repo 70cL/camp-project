@@ -13,3 +13,12 @@
 .ui.third.container{
   margin-top: 5em;
 }
+
+.ui.centerwa.container {
+  margin-top: 5em;
+  text-align: center;
+}
+
+.ui.center.container {
+  text-align: center;
+}
